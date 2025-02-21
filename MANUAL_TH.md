@@ -1,4 +1,4 @@
-# คู่มือการใช้งาน (Manual)
+# คู่มือการใช้งานโปรแกรมตรวจจับใบหน้า (Face Tracking Manual)
 
 ## 2302307 Interactive Science and Social Project (ISSP) ปีการศึกษา 2024
 
